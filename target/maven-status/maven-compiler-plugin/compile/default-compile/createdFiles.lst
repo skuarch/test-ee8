@@ -1,0 +1,4 @@
+model/Hello.class
+application/GreetingService.class
+application/MVCConfiguration.class
+controller/HelloController.class
